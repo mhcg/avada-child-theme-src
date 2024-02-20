@@ -1,0 +1,4 @@
+# Ignore stuff only used for development.
+wordpress/
+vendor/
+node_modules/
