@@ -2,5 +2,6 @@
     "composer.executablePath": "/usr/local/bin/composer",
     "phpcs.standard": "WordPress",
     "editor.detectIndentation": false,
-    "editor.insertSpaces": false
+    "editor.insertSpaces": false,
+	"phpcs.executablePath": "/workspace/vendor/bin/phpcs"
 }
