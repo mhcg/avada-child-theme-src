@@ -1,0 +1,20 @@
+{
+	"name": "Avada Child Theme",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "wordpress",
+	"workspaceFolder": "/workspace",
+	"shutdownAction": "stopCompose",
+	"remoteUser": "vscode",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ikappas.composer",
+				"shevaua.phpcs",
+				"xdebug.php-debug"
+			]
+		},
+		"settings": {
+			"terminal.integrated.shell.linux": "/bin/bash"
+		}
+	}
+}
