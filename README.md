@@ -2,9 +2,9 @@
 
 ## Overview
 
-These are the source files for the [Avada Child Theme](https://github.com/mhcg/avada-child-theme-src) repo used as a starting point template for any WordPress Avada Child Theme project.
+These are the source files for the [Avada Child Theme](https://github.com/mhcg/avada-child-theme) repo used as a starting point template for any WordPress Avada Child Theme project.
 
-See the [mhcg/Avada-Child-Theme](https://github.com/mhcg/avada-child-theme-src) repo for details of what's included, this repo only contains details of the development side of things.
+See the [mhcg/Avada-Child-Theme](https://github.com/mhcg/avada-child-theme) repo for details of what's included, this repo only contains details of the development side of things.
 
 ## Development Files
 
