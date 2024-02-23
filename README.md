@@ -10,6 +10,8 @@ See the [mhcg/Avada-Child-Theme](https://github.com/mhcg/avada-child-theme) repo
 
 This repo includes VS Code Container files so this project can be worked on locally or via Codespaces. The general idea being, the files can be developed and tested before being released back into the release repo for use as a template. In a nutshell, all the files in the `src/` folder should end up in the release repo.
 
+WordPress Standard Coding checking is included via `PHPCS` as well, run `composer install` on the command line to install it otherwise errors will be reported about phpcs missing.
+
 This repo does not contain the Avada theme, it should be obtained through normal channels and installed onto this site before activating the child theme.
 
 ## Container Files
